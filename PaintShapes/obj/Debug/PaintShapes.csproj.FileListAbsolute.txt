@@ -1,0 +1,10 @@
+D:\TBC\AES\PaintShapes\PaintShapes\bin\Debug\PaintShapes.exe.config
+D:\TBC\AES\PaintShapes\PaintShapes\bin\Debug\PaintShapes.exe
+D:\TBC\AES\PaintShapes\PaintShapes\bin\Debug\PaintShapes.pdb
+D:\TBC\AES\PaintShapes\PaintShapes\obj\Debug\PaintShapes.csprojAssemblyReference.cache
+D:\TBC\AES\PaintShapes\PaintShapes\obj\Debug\PaintShapes.Form1.resources
+D:\TBC\AES\PaintShapes\PaintShapes\obj\Debug\PaintShapes.Properties.Resources.resources
+D:\TBC\AES\PaintShapes\PaintShapes\obj\Debug\PaintShapes.csproj.GenerateResource.cache
+D:\TBC\AES\PaintShapes\PaintShapes\obj\Debug\PaintShapes.csproj.CoreCompileInputs.cache
+D:\TBC\AES\PaintShapes\PaintShapes\obj\Debug\PaintShapes.exe
+D:\TBC\AES\PaintShapes\PaintShapes\obj\Debug\PaintShapes.pdb

@@ -1,0 +1,30 @@
+D:\TBC\AES\PaintShapes1\PaintShapes\obj\Debug\PaintShapes1.csprojAssemblyReference.cache
+D:\TBC\AES\PaintShapes1\PaintShapes\obj\Debug\PaintShapes.Form1.resources
+D:\TBC\AES\PaintShapes1\PaintShapes\obj\Debug\PaintShapes.Properties.Resources.resources
+D:\TBC\AES\PaintShapes1\PaintShapes\obj\Debug\PaintShapes1.csproj.GenerateResource.cache
+D:\TBC\AES\PaintShapes1\PaintShapes\obj\Debug\PaintShapes1.csproj.CoreCompileInputs.cache
+D:\TBC\AES\PaintShapes1\PaintShapes\obj\Debug\PaintShapes.exe
+D:\TBC\AES\PaintShapes1\PaintShapes\obj\Debug\PaintShapes.pdb
+D:\TBC\AES\PaintShapes1\PaintShapes\bin\Debug\PaintShapes.exe.config
+D:\TBC\AES\PaintShapes1\PaintShapes\bin\Debug\PaintShapes.exe
+D:\TBC\AES\PaintShapes1\PaintShapes\bin\Debug\PaintShapes.pdb
+D:\TBC\AES\component1PaintShapes\PaintShapes\bin\Debug\PaintShapes.exe.config
+D:\TBC\AES\component1PaintShapes\PaintShapes\bin\Debug\PaintShapes.exe
+D:\TBC\AES\component1PaintShapes\PaintShapes\bin\Debug\PaintShapes.pdb
+D:\TBC\AES\component1PaintShapes\PaintShapes\obj\Debug\PaintShapes1.csprojAssemblyReference.cache
+D:\TBC\AES\component1PaintShapes\PaintShapes\obj\Debug\PaintShapes.Form1.resources
+D:\TBC\AES\component1PaintShapes\PaintShapes\obj\Debug\PaintShapes.Properties.Resources.resources
+D:\TBC\AES\component1PaintShapes\PaintShapes\obj\Debug\PaintShapes1.csproj.GenerateResource.cache
+D:\TBC\AES\component1PaintShapes\PaintShapes\obj\Debug\PaintShapes1.csproj.CoreCompileInputs.cache
+D:\TBC\AES\component1PaintShapes\PaintShapes\obj\Debug\PaintShapes.exe
+D:\TBC\AES\component1PaintShapes\PaintShapes\obj\Debug\PaintShapes.pdb
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\bin\Debug\DrawShapes.exe.config
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\bin\Debug\DrawShapes.exe
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\bin\Debug\DrawShapes.pdb
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\obj\Debug\PaintShapes1.csprojAssemblyReference.cache
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\obj\Debug\PaintShapes.Form1.resources
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\obj\Debug\DrawShapes.Properties.Resources.resources
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\obj\Debug\PaintShapes1.csproj.GenerateResource.cache
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\obj\Debug\PaintShapes1.csproj.CoreCompileInputs.cache
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\obj\Debug\DrawShapes.exe
+C:\Users\Lokendra Bohara\Documents\component1paintshapes-main\PaintShapes\obj\Debug\DrawShapes.pdb

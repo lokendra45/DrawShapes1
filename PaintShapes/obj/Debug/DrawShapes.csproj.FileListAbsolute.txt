@@ -1,0 +1,11 @@
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\bin\Debug\DrawShapes.exe.config
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\bin\Debug\DrawShapes.exe
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\bin\Debug\DrawShapes.pdb
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\obj\Debug\DrawShapes.csprojAssemblyReference.cache
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\obj\Debug\DrawShapes.Properties.Resources.resources
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\obj\Debug\DrawShapes.csproj.GenerateResource.cache
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\obj\Debug\DrawShapes.csproj.CoreCompileInputs.cache
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\obj\Debug\DrawShapes.exe
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\obj\Debug\DrawShapes.pdb
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\obj\Debug\DrawShapes.Form1.resources
+C:\Users\Lokendra Bohara\Documents\DrawShapeVersion 1\PaintShapes\bin\Debug\DrawShapes.xml
